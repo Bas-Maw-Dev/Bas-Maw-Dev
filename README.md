@@ -3,7 +3,7 @@
 
 ## Interests
 - 👀 I’m interested in ...
-Coding, Yoga, Permaculture, Writing, 
+Coding, Yoga, Permaculture, Writing, Creating Music, DIY
 
 ### Code:
 `Go` : `Rust` : `Ruby` : `Dart` : `Java` : `Python` : `Javascript` : `React` : `React Native` : `BASIC` : `C` : `HTML` : `CSS` : `Bootstrap` ...
