@@ -6,15 +6,15 @@
 Coding, Yoga, Permaculture, Writing, Creating Music, DIY
 
 ### Code:
-`Go` : `Rust` : `Ruby` : `Dart` : `Java` : `Python` : `Javascript` : `React` : `React Native` : `BASIC` : `C` : `HTML` : `CSS` : `Bootstrap` ...
+`Go` : `Rust` : `Ruby` : `Dart` : `Java` : `Python` : `Javascript` : `React` : `React Native` : `BASIC` : `C` : `HTML` : `CSS` : `` ...
 
 ## Learning
 - 🌱 I’m currently learning ...
-@ Made Tech Academy focused on `Ruby` atm.
+Scrum, C# and .NET framework
 
 ## Collaboration
 - 💞️ I’m looking to collaborate on ...
-Anything I have time for, including real world projects as well as tech
+Anything I have time for, including real world projects as well as tech, I have experience in building houses, farms and more.
 
 ## Contact
 - 📫 How to reach me ...
