@@ -10,7 +10,7 @@ Coding, Yoga, Permaculture, Writing, Creating Music, DIY
 
 ## Learning
 - 🌱 I’m currently learning ...
-Scrum, C# and .NET framework
+Personally: Life. Professionally: merging web skills, AI and Data Science. Revisiting psychology.
 
 ## Collaboration
 - 💞️ I’m looking to collaborate on ...
